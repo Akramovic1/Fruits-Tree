@@ -1,7 +1,7 @@
-![](image.PNG)
-
 # Fruits-Tree
 It's Binary Search Tree (BST). The nodes of the tree are of an abstract type named Fruit.
+
+![](image.PNG)
 
 ## Methods:
 * Iterate();  a method that prints the in-order traversal of the tree.
